@@ -1,4 +1,4 @@
-# Java Practice Programs
+# Java Array Programs
 
 This repository contains Java programs created while learning programming concepts.
 
