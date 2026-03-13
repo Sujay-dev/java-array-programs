@@ -1,6 +1,6 @@
 # Java Practice Programs
 
-This repository contains Java programs created while learning core programming and problem-solving concepts.
+This repository contains Java programs created while learning core programming concepts and problem-solving.
 
 ## Topics Covered
 
@@ -10,10 +10,10 @@ This repository contains Java programs created while learning core programming a
 * Move Zeros to End
 * Missing Number
 * Frequency of Elements
-* Prefix Sum
 * Array Rotation (Left / Right / K Rotations)
+* Prefix Sum
 
-### Searching Algorithms
+### Searching
 
 * Linear Search
 * Binary Search
@@ -27,12 +27,13 @@ This repository contains Java programs created while learning core programming a
 * Maximum Element in Matrix
 * Non-Square Matrix Transpose
 
-### String Problems
+### Methods
 
-* Palindrome String
-* Reverse String
-* Count Vowels
-* Anagram Check
+* Sum using Method
+* Factorial using Method
+* Sum of digits using Method
+* Palindrome using Method
+* Maximum Number using Method
 
 ### Mini Projects
 
@@ -43,15 +44,16 @@ This repository contains Java programs created while learning core programming a
 
 * Java
 * Basic Data Structures
-* Problem Solving
+* Problem Solving Techniques
 
 ## Purpose of This Repository
 
 * Practice Java programming
-* Improve problem-solving skills
+* Improve logical thinking
 * Maintain coding practice on GitHub
-* Build a portfolio for software development roles
+* Build a beginner developer portfolio
 
 ## Author
 
 Sujay
+
